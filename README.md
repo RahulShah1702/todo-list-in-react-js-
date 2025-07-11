@@ -54,8 +54,7 @@ src/
 This app uses your browser’s localStorage to save tasks automatically. Data will persist until cleared manually or by the browser.
 
 📸 Screenshots
+
 <img width="1839" height="834" alt="Screenshot 2025-07-11 181705" src="https://github.com/user-attachments/assets/1d08898b-e030-4457-9bb8-f192a15a27df" />
-
-
 <img width="1760" height="811" alt="image" src="https://github.com/user-attachments/assets/4c4d4ae0-6a54-407c-b394-87f47217a3b6" />
 
